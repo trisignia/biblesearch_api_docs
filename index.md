@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Introduction Foo
 ---
 
 # ABS BibleSearch API Documentation
